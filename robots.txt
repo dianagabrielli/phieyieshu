@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uruteehahd.dampfrun.de/sitemap.xml
